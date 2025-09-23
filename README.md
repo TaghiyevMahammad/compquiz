@@ -32,6 +32,7 @@ Provides instant feedback, highlights correct/incorrect options, and shows the f
 6. At the end, your score will be displayed and you can restart the quiz  
 
 ---
+## 📂 File Structure
 /compquiz
 
 │── .vscode/ # VSCode settings (optional)
@@ -62,5 +63,5 @@ Provides instant feedback, highlights correct/incorrect options, and shows the f
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-## 📂 File Structure
+
 
